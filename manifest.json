@@ -1,0 +1,24 @@
+
+
+{
+
+    "manifest_version": 2,
+    "name": "뉴잘알", 
+
+    "version": "1.0.0",
+
+
+    "description": "뉴스의 기승전결을 보여줘",
+
+    
+    "sidebar_action": {
+        "default_page": "sidebar.html",
+        "default_icon": "newzaral_icon.png",
+        "default_title": "뉴잘알",
+        "use_navigation_bar" : true
+        
+    }
+    
+
+}
+
